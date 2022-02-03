@@ -1,0 +1,32 @@
+"Notes"	"Residence Census Region"	"Residence Census Region Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	498880	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	645924	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	1114505	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	563670	Not Applicable	Not Applicable
+"Total"			2822979	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"MMWR Year/Week: 2018"
+"Year/Month: 2018"
+"Group By: Residence Census Region"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Feb 2, 2022 5:49:22 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Provisional Multiple"
+"Cause of Death on CDC WONDER Online Database, released 2021. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2020-2021, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Feb 2, 2022 5:49:22 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Deaths occurring through December 18,2021 as of January 02,2022."
